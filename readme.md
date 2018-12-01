@@ -1,6 +1,6 @@
 
 
-This is a collection of literature, resources, opinions and examples that I've mentioned in my seminar at IRD.
+This is a collection of literature, resources, opinions and examples that I've mentioned in my seminar at IRD. If you want to send me ideas or comments, feel free [to open an issue](https://help.github.com/articles/creating-an-issue/), send me a [pull request](https://help.github.com/articles/creating-a-pull-request/) or contact me privately
 
 ## Bibliography on panicle branching
 
@@ -9,8 +9,6 @@ A very essential bibliography on the work of the EDI team on panicle branching.
 - [Gene expression profiling of reproductive meristem types in early rice inflorescences by laser microdissection](https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.13147)
 - [Differences in meristem size and expression of branching genes are associated with variation in panicle phenotype in wild and domesticated African rice](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-017-0065-y)
 - [P-TRAP: a Panicle Trait Phenotyping tool](https://bmcplantbiol.biomedcentral.com/articles/10.1186/1471-2229-13-122)
-
-
 
 
 ## Tools for the main plot
@@ -43,3 +41,7 @@ If you are looking for a discussion of the ethics, approaches and possibilities 
 [A review on Deep learning in medicine and biology](https://github.com/greenelab/deep-review) written openly on Github[^1].
 
 [^1]: Thanks to Anna Stavrinides for the suggestion.
+
+## Presentation tools
+
+My slides were made with [reveal.js](https://revealjs.com/#/), with its [R markdown format](https://bookdown.org/yihui/rmarkdown/revealjs.html)
